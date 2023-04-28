@@ -1,4 +1,4 @@
-# Simple Property Valuation Project
+# Property Valuation Project
 
 The tasks of this prject are devided across 4 main notebooks
 1) Uses selenium to scrape a website that aggregates the listings from a number of real estate agents in Malta (only data in the quarter before the scraping data was used to have a valuation based on recent data)
